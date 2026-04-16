@@ -9,7 +9,7 @@ I am passionate about **Linux systems, penetration testing, ethical hacking, and
 ## 🛠️ Skills & Tools
 
 - **Operating Systems:** Linux (Arch, Ubuntu, Kali), Windows  
-- **Programming & Scripting:** Python, Bash, C, PowerShell  
+- **Programming & Scripting:** Python, Bash, C, C++, Php  
 - **Security & Networking:** Penetration Testing, Vulnerability Assessment, Network Security, Wireshark, Nmap  
 - **DevOps & Tools:** Git, Docker, Virtualization (VMware, VirtualBox)  
 - **Other:** System Hardening, Automation Scripts, Reverse Engineering  
@@ -19,7 +19,7 @@ I am passionate about **Linux systems, penetration testing, ethical hacking, and
 ## 🌱 What I’m Currently Learning
 
 - Advanced Linux Kernel Internals  
-- Exploit Development & Malware Analysis  
+- Exploit Development
 - Web Penetration testing
 - Network Penetration Testing
 
