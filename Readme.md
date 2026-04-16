@@ -20,7 +20,8 @@ I am passionate about **Linux systems, penetration testing, ethical hacking, and
 
 - Advanced Linux Kernel Internals  
 - Exploit Development & Malware Analysis  
-- Cloud Security (AWS, Azure)  
+- Web Penetration testing
+- Network Penetration Testing
 
 ---
 
