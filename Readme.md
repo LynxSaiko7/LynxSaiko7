@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Your Name]
+# Hi there 👋, I'm Lynx Saiko
 
 ### 🔒 Cyber Security & Linux Enthusiast
 
@@ -26,9 +26,9 @@ I am passionate about **Linux systems, penetration testing, ethical hacking, and
 
 ## 📫 How to reach me
 
-- Email: your.email@example.com  
+- Email: lynxsaiko7@gmail.com
 - Twitter: [@YourHandle](https://twitter.com/YourHandle)  
-- LinkedIn: [Your Name](https://www.linkedin.com/in/yourprofile)  
+
 
 ---
 
